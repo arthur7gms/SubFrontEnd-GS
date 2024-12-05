@@ -8,4 +8,4 @@ A animação principal está na logo, que "salta" a todo o tempo.
 O uso do flexbox foi constantemente utilizado em praticamente todas as areas do site;
 
 Aluno: Arthur Gomes da Silva - RM: 560771
-Link do Github Pages: 
+Link do Github Pages: https://arthur7gms.github.io/SubFrontEnd-GS/
